@@ -3,4 +3,5 @@ IG Clone using HTML &amp; CSS
 
                                             Instagram Clone Frontend using HTML & CSS
 
-![Screenshot (184)](https://user-images.githubusercontent.com/90108144/192031170-3eb8e776-2331-4dfa-9fd8-88d574b37592.png)
+
+![Screenshot (7)](https://user-images.githubusercontent.com/112149459/204786715-38c5afdb-2d80-49e3-bec3-43fb638eed44.png)
